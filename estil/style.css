@@ -1,0 +1,22 @@
+@charset "UTF-8";
+html {background-color: rosybrown; font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;}
+section {width: 900px; background-color: rgb(250, 150, 150); display: flex; justify-content: center; margin: auto; box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.322);}
+section.bo {border-radius: 20px 20px 0px 0px;}
+section.to {border-radius: 0px 0px 20px 20px;}
+div, nav {display: flex; justify-content: center; padding: 10px;}
+div.img {flex-direction: column;}
+div.p {margin: 5px;}
+img.au {width: 650px; box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.322); margin: 5px;}
+img#i {width: 880px;}
+img.j {width: 430px;}
+h1 {color: rgb(94, 94, 94); text-align: center; font-size: 2.5em;}
+p {color: rgb(94, 94, 94); text-align: justify; font-size: 1.1em;}
+u {color: #044999e7; text-decoration-style: double;}
+span {color: #772403b9;}
+span.a, p#a {color: #044999e7;}
+span.v {color: rgb(40, 114, 40);}
+span.cv {color: rgb(150, 16, 16);}
+span.r {color: blueviolet;}
+span.c {color: rgb(99, 99, 99);}
+span.ris {text-decoration: line-through;}
+b {font: arial narrow; color: rgb(122, 89, 5);}
